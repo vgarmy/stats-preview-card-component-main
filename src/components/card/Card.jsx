@@ -12,20 +12,21 @@ function Card() {
                         experience, and overall efficiency.</p>
                     <div className='card_container_statistics'>
                         <div className='card_container_statistics_info'>
-                            <p>10k+</p>
-                            <p>companies</p>
+                            <p className='card_container_statistics_info_value'>10k+</p>
+                            <p className='card_container_statistics_info_type'>companies</p>
                         </div>
                         <div className='card_container_statistics_info'>
-                            <p>314</p>
-                            <p>templates</p>
+                            <p className='card_container_statistics_info_value'>314</p>
+                            <p className='card_container_statistics_info_type'>templates</p>
                         </div>
                         <div className='card_container_statistics_info'>
-                            <p>12m+ </p>
-                            <p>queries</p>
+                            <p className='card_container_statistics_info_value'>12m+ </p>
+                            <p className='card_container_statistics_info_type'>queries</p>
                         </div>
                     </div>
                 </div>
                 <div className='card_container_image'>
+                    
 
                 </div>
             </div>
