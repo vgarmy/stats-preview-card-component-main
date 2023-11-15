@@ -56,4 +56,4 @@ Need more grid and flex knowledge
 ## Author
 
 - Website - https://github.com/vgarmy
-- Frontend Mentor - [@vgarmy](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@vgarmy](https://www.frontendmentor.io/profile/vgarmy)
